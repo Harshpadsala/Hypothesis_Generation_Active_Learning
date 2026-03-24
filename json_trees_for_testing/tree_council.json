@@ -1,0 +1,1036 @@
+{
+    "council": {
+        "depth": 1,
+        "response": " A council is a governing body or assembly that makes decisions, sets policies, and oversees the administration within a specific jurisdiction or organization.\n",
+        "children": {
+            "governing body": {
+                "depth": 2,
+                "response": " A governing body is an authoritative entity responsible for setting policies, making decisions, and overseeing the administration within an organizational structure. \n\n",
+                "children": {
+                    "authoritative entity": {
+                        "depth": 3,
+                        "response": " An authoritative entity is a recognized and trusted source within a system that provides accurate and reliable information or decisions, often acting as a central reference point for validation and enforcement of rules or standards.\n\n",
+                        "children": {
+                            "recognized source": {
+                                "depth": 4,
+                                "response": " A recognized source is a verified and authoritative entity that provides accurate information or data, which is acknowledged and accepted within a specific domain for decision-making and reference purposes.\n\n",
+                                "children": {}
+                            },
+                            "accurate information": {
+                                "depth": 4,
+                                "response": " Accurate information refers to data or knowledge that is correct, precise, and free from errors, ensuring reliable decision-making and policy formulation.\n\n",
+                                "children": {}
+                            },
+                            "reliable decisions": {
+                                "depth": 4,
+                                "response": " Reliable decisions refer to outcomes that consistently yield accurate, dependable, and valid results within a governing body, ensuring effective policy implementation and public trust.\n\n",
+                                "children": {}
+                            },
+                            "central reference point": {
+                                "depth": 4,
+                                "response": " Central reference point: A pivotal location or standard within a governing body that serves as the primary point for decision-making, policy direction, and administrative coordination.\n\n",
+                                "children": {}
+                            },
+                            "validation": {
+                                "depth": 4,
+                                "response": " Validation is the process of assessing and verifying the accuracy, completeness, and compliance of data, documents, or systems to ensure they meet predefined criteria or standards.\n\n",
+                                "children": {}
+                            },
+                            "enforcement": {
+                                "depth": 4,
+                                "response": " Enforcement refers to the application and implementation of rules, regulations, or laws to ensure compliance and maintain order within a governing body. \n\n",
+                                "children": {}
+                            }
+                        }
+                    },
+                    "responsible": {
+                        "depth": 3,
+                        "response": " Responsible within a council refers to the accountability and duty members have towards ethical decision-making, adherence to regulations, and effective governance. \n",
+                        "children": {
+                            "accountability": {
+                                "depth": 4,
+                                "response": " Accountability refers to the obligation of individuals or entities to report, explain, and be answerable for the consequences of their actions within a governance structure, ensuring transparency and adherence to established rules and ethical standards.\n",
+                                "children": {}
+                            },
+                            "ethical decision-making": {
+                                "depth": 4,
+                                "response": " Ethical decision-making is the process of evaluating and choosing among alternatives in a manner consistent with ethical principles, often involving moral reasoning and consideration of the impact on stakeholders.\n\n",
+                                "children": {}
+                            },
+                            "regulations": {
+                                "depth": 4,
+                                "response": " Regulations are formal rules established by a governing body to guide and control actions, ensuring compliance and order within a specified area. \n",
+                                "children": {}
+                            },
+                            "governance": {
+                                "depth": 4,
+                                "response": " Governance refers to the structures, processes, and mechanisms through which decisions are made, implemented, and enforced within an organized group or entity, ensuring accountability, transparency, and adherence to established rules and policies.\n",
+                                "children": {}
+                            }
+                        }
+                    },
+                    "setting policies": {
+                        "depth": 3,
+                        "response": " Setting policies involves establishing rules and guidelines for governance, decision-making, and resource allocation within an organizational structure.",
+                        "children": {
+                            "rules": {
+                                "depth": 4,
+                                "response": " Rules are structured guidelines or principles that govern decision-making processes, ensuring orderly conduct and fairness in a council setting.\n\n",
+                                "children": {}
+                            },
+                            "governance": {
+                                "depth": 4,
+                                "response": " Governance refers to the structures, processes, and traditions that determine how decisions are made, rights and obligations are enforced, and how power is exercised within an organization. \n",
+                                "children": {}
+                            },
+                            "decision-making": {
+                                "depth": 4,
+                                "response": " Decision-making is the process of choosing between different alternatives to achieve a desired outcome within a governing body. \n",
+                                "children": {}
+                            },
+                            "resource allocation": {
+                                "depth": 4,
+                                "response": " Resource allocation is the process of distributing available resources among various competing needs or projects within an organizational structure to achieve optimal efficiency and effectiveness.\n\n",
+                                "children": {}
+                            }
+                        }
+                    },
+                    "making decisions": {
+                        "depth": 3,
+                        "response": " Making decisions involves evaluating options, considering stakeholder interests, and selecting the most appropriate course of action based on available information and established criteria.\n\n",
+                        "children": {
+                            "evaluating options": {
+                                "depth": 4,
+                                "response": " Evaluating options involves assessing various alternatives to make informed decisions, prioritizing criteria such as cost, effectiveness, and stakeholder impact.\n\n",
+                                "children": {}
+                            },
+                            "considering stakeholder interests": {
+                                "depth": 4,
+                                "response": " Considering stakeholder interests involves evaluating and integrating the needs, concerns, and contributions of individuals, groups, or organizations that are affected by or can influence a decision-making process. \n\n",
+                                "children": {}
+                            },
+                            "selecting course of action": {
+                                "depth": 4,
+                                "response": " Selecting course of action involves determining the most appropriate and effective steps to achieve desired outcomes within a decision-making entity, focusing on prioritizing objectives, assessing potential impacts, and allocating resources efficiently.\n\n",
+                                "children": {}
+                            },
+                            "available information": {
+                                "depth": 4,
+                                "response": " Available information refers to data, facts, and details that are accessible and can be utilized for decision-making, analysis, and resource allocation within a governing body or organization.\n\n",
+                                "children": {}
+                            },
+                            "established criteria": {
+                                "depth": 4,
+                                "response": " Established criteria refer to predefined, standardized, and consistent guidelines or benchmarks used to evaluate, assess, or make decisions within a governing body or organization. \n\n",
+                                "children": {}
+                            }
+                        }
+                    },
+                    "overseeing administration": {
+                        "depth": 3,
+                        "response": " Overseeing administration refers to the process of supervising and managing organizational operations, ensuring compliance with policies, and facilitating decision-making.\n\n",
+                        "children": {
+                            "supervising": {
+                                "depth": 4,
+                                "response": " Supervising refers to the act of overseeing and managing operations, ensuring adherence to policies and standards, and providing guidance and support within a governing body.\n\n",
+                                "children": {}
+                            },
+                            "organizational operations": {
+                                "depth": 4,
+                                "response": " Organizational operations refer to the systematic processes and activities undertaken to manage, coordinate, and execute the functions essential for a council's governance, decision-making, and service delivery.\n\n",
+                                "children": {}
+                            },
+                            "compliance": {
+                                "depth": 4,
+                                "response": " Compliance refers to the adherence to laws, regulations, and standards by entities to ensure legal and ethical operations.\n",
+                                "children": {}
+                            },
+                            "policies": {
+                                "depth": 4,
+                                "response": " Policies are formal guidelines or rules established by a governing body to direct decision-making and actions, ensuring consistency, fairness, and accountability in managing resources, services, and community welfare.\n\n",
+                                "children": {}
+                            },
+                            "decision-making": {
+                                "depth": 4,
+                                "response": " Decision-making is the process of choosing between different alternatives to achieve a specific goal within a governing body. \n",
+                                "children": {}
+                            }
+                        }
+                    }
+                }
+            },
+            "assembly": {
+                "depth": 2,
+                "response": " Assembly in the context of council refers to the gathering and organization of members to deliberate, make decisions, and coordinate actions.\n\n",
+                "children": {
+                    "gathering": {
+                        "depth": 3,
+                        "response": " Gathering refers to the process of collecting data, opinions, or resources from individuals or groups to inform decision-making, policy development, or community engagement within a governing or organizational framework.\n\n",
+                        "children": {
+                            "data collection": {
+                                "depth": 4,
+                                "response": " Data collection involves systematically gathering information from various sources within a community to analyze trends, needs, and behaviors. \n",
+                                "children": {}
+                            },
+                            "individuals": {
+                                "depth": 4,
+                                "response": " Individuals within a council represent distinct members, each holding specific roles or positions, contributing unique perspectives and expertise to collective decision-making processes.\n\n",
+                                "children": {}
+                            },
+                            "groups": {
+                                "depth": 4,
+                                "response": " Groups in the context of a council refer to collections of individuals who come together to make decisions, share information, and coordinate actions for a common purpose. \n",
+                                "children": {}
+                            },
+                            "decision-making": {
+                                "depth": 4,
+                                "response": " Decision-making is the process of choosing between different alternatives to reach a conclusion, typically involving evaluating options, risks, and outcomes.\n\n",
+                                "children": {}
+                            },
+                            "policy development": {
+                                "depth": 4,
+                                "response": " Policy development is the systematic process of formulating, implementing, and evaluating guidelines and regulations to address specific issues within an administrative body.\n\n",
+                                "children": {}
+                            },
+                            "community engagement": {
+                                "depth": 4,
+                                "response": " Community engagement refers to the process by which a group of individuals actively participates in discussions, decision-making, and activities to influence and contribute to the development and implementation of initiatives that affect their local area. \n\n",
+                                "children": {}
+                            },
+                            "governing": {
+                                "depth": 4,
+                                "response": " Governing in the context of a council refers to the process by which a group of elected or appointed officials make decisions, set policies, and oversee the administration of a community, organization, or institution.\n\n",
+                                "children": {}
+                            },
+                            "organizational framework": {
+                                "depth": 4,
+                                "response": " Organizational framework refers to the structured arrangement of roles, responsibilities, and relationships that guide the functioning and decision-making processes within an entity. \n\n",
+                                "children": {}
+                            }
+                        }
+                    },
+                    "members": {
+                        "depth": 3,
+                        "response": " Members are individuals who hold positions or roles within a governing body, contributing to decision-making processes and policy formulation.\n",
+                        "children": {
+                            "individuals": {
+                                "depth": 4,
+                                "response": " Individuals within a council represent unique members who contribute personal perspectives, expertise, and decision-making authority to collective governance and policy formulation.\n\n",
+                                "children": {}
+                            },
+                            "positions": {
+                                "depth": 4,
+                                "response": " Positions in a council refer to the distinct roles or seats allocated to individuals, each with specific responsibilities and authority within the decision-making body.\n\n",
+                                "children": {}
+                            },
+                            "governing body": {
+                                "depth": 4,
+                                "response": " A governing body is an authoritative organization responsible for setting policies, making decisions, and overseeing the administration of a collective entity, ensuring compliance with established rules and regulations.\n\n",
+                                "children": {}
+                            },
+                            "decision-making": {
+                                "depth": 4,
+                                "response": " Decision-making is the process of selecting a course of action from multiple alternatives to achieve a desired outcome within a council setting. \n",
+                                "children": {}
+                            },
+                            "policy formulation": {
+                                "depth": 4,
+                                "response": " Policy formulation is the process of developing strategies and guidelines to address specific issues within a governing body by identifying objectives, gathering relevant data, and proposing actionable solutions.\n\n",
+                                "children": {}
+                            }
+                        }
+                    },
+                    "deliberate": {
+                        "depth": 3,
+                        "response": " Deliberate refers to the intentional and thoughtful consideration or action taken by members within an assembly or group, focusing on decision-making processes and outcomes.\n\n",
+                        "children": {
+                            "intentional": {
+                                "depth": 4,
+                                "response": " Intentional, within the scope of decision-making processes, refers to actions or decisions made with a deliberate purpose, aim, or goal in mind. \n\n",
+                                "children": {}
+                            },
+                            "consideration": {
+                                "depth": 4,
+                                "response": " Consideration in the context of council refers to the process of evaluating and deliberating on various proposals, policies, or issues by a governing body or group of elected representatives, focusing on their implications, benefits, and potential impacts on the community or organization.\n\n",
+                                "children": {}
+                            },
+                            "action": {
+                                "depth": 4,
+                                "response": " Action within a council refers to the collective decision-making processes and initiatives undertaken by members to address issues, implement policies, and manage resources.\n\n",
+                                "children": {}
+                            },
+                            "decision-making": {
+                                "depth": 4,
+                                "response": " Decision-making is the process of selecting the best course of action from multiple alternatives to achieve a specific goal within a council setting.\n\n",
+                                "children": {}
+                            },
+                            "outcomes": {
+                                "depth": 4,
+                                "response": " Outcomes refer to the measurable results or impacts derived from the decisions and actions taken within a governing body, focusing on the effectiveness and efficiency of implemented policies.\n\n",
+                                "children": {}
+                            }
+                        }
+                    },
+                    "decisions": {
+                        "depth": 3,
+                        "response": " Decisions in the context of a council refer to the authoritative choices made by a group of individuals representing a community, organization, or government, determining policies, directions, or actions.\n\n",
+                        "children": {
+                            "authoritative choices": {
+                                "depth": 4,
+                                "response": " Authoritative choices refer to decisions or selections made by a recognized entity or individual with the power and expertise to influence outcomes significantly. These choices are often based on established criteria, expertise, and credibility, ensuring reliability and acceptance.\n\n",
+                                "children": {}
+                            },
+                            "group of individuals": {
+                                "depth": 4,
+                                "response": " A group of individuals in the context of a council refers to a collective body of elected or appointed members who convene to deliberate, make decisions, and govern on behalf of a larger community.\n\n",
+                                "children": {}
+                            },
+                            "community": {
+                                "depth": 4,
+                                "response": " Community represents a collective of individuals united by shared interests, goals, or geographical proximity within a local governance structure, fostering collaboration, decision-making, and resource sharing.\n",
+                                "children": {}
+                            },
+                            "organization": {
+                                "depth": 4,
+                                "response": " Definition: Organization refers to the structured arrangement and systematic coordination of individuals and resources within a group to achieve common goals, focusing on efficiency, hierarchy, and communication.\n\n",
+                                "children": {}
+                            },
+                            "government": {
+                                "depth": 4,
+                                "response": " Government is the organized system of authority and administration responsible for decision-making, policy implementation, and regulation within a defined territory, often overseeing various sectors including public services, infrastructure, and law enforcement.\n\n",
+                                "children": {}
+                            },
+                            "policies": {
+                                "depth": 4,
+                                "response": " Policies are formal rules or guidelines established by a governing body to direct decision-making and actions, ensuring consistency, fairness, and accountability.\n\n",
+                                "children": {}
+                            },
+                            "directions": {
+                                "depth": 4,
+                                "response": " Direction in a council context refers to the guiding principles, policies, or strategic planning decisions made by the governing body to steer the organization towards its objectives.\n\n",
+                                "children": {}
+                            },
+                            "actions": {
+                                "depth": 4,
+                                "response": " Actions refer to the deliberate steps or measures taken by a governing body to implement policies, manage resources, and address community needs.\n",
+                                "children": {}
+                            }
+                        }
+                    },
+                    "coordinate": {
+                        "depth": 3,
+                        "response": " Definition: A coordinate represents a specific point in a defined space, used for mapping and referencing locations within a council's jurisdiction.\n\n",
+                        "children": {
+                            "point": {
+                                "depth": 4,
+                                "response": " Definition: A point represents a specific location within a council's jurisdiction, serving as a reference for decision-making, resource allocation, and administrative boundaries.\n\n",
+                                "children": {}
+                            },
+                            "space": {
+                                "depth": 4,
+                                "response": " Space, in the context of council, refers to the physical area or venue allocated for council meetings, deliberations, and public gatherings, facilitating civic engagement and administrative functions.\n\n",
+                                "children": {}
+                            },
+                            "mapping": {
+                                "depth": 4,
+                                "response": " Definition: Mapping in this context refers to the process of assigning unique identifiers or attributes to physical locations or assets within a municipal area to facilitate data organization, management, and analysis.\n\n",
+                                "children": {}
+                            },
+                            "jurisdiction": {
+                                "depth": 4,
+                                "response": " Jurisdiction refers to the legal authority granted to a council to govern, legislate, and enforce laws within a specified geographical area.\n\n",
+                                "children": {}
+                            }
+                        }
+                    },
+                    "actions": {
+                        "depth": 3,
+                        "response": " Actions refer to the specific measures, decisions, or initiatives undertaken by a governing body to address issues, implement policies, or manage resources.\n",
+                        "children": {
+                            "measures": {
+                                "depth": 4,
+                                "response": " Measures in the context of governance refer to quantifiable standards or units used to evaluate performance, compliance, or efficiency of administrative processes.\n\n",
+                                "children": {}
+                            },
+                            "decisions": {
+                                "depth": 4,
+                                "response": " Decisions in the context of a council refer to the conclusive resolutions or determinations made collectively by a group of individuals, typically elected or appointed, to address matters of governance, policy, or community needs.\n\n",
+                                "children": {}
+                            },
+                            "initiatives": {
+                                "depth": 4,
+                                "response": " Initiatives refer to organized efforts or projects undertaken by a group to achieve specific goals, focusing on policy development, community engagement, and resource allocation.\n\n",
+                                "children": {}
+                            },
+                            "governing body": {
+                                "depth": 4,
+                                "response": " A governing body is an authoritative entity responsible for setting policies, making decisions, and overseeing the administration within an organization. \n",
+                                "children": {}
+                            },
+                            "issues": {
+                                "depth": 4,
+                                "response": " Issues within a council refer to challenges, disagreements, or problems encountered during the decision-making and governance processes. \n\n",
+                                "children": {}
+                            },
+                            "policies": {
+                                "depth": 4,
+                                "response": " Policies are systematic guidelines or principles established by a governing body to direct decision-making and actions, ensuring consistency, fairness, and accountability in administrative processes.\n",
+                                "children": {}
+                            },
+                            "resources": {
+                                "depth": 4,
+                                "response": " Resources refer to the available assets, materials, or supplies utilized by a governing body to fulfill its functions and objectives. \n\n",
+                                "children": {}
+                            }
+                        }
+                    }
+                }
+            },
+            "decision-making": {
+                "depth": 2,
+                "response": " Decision-making is the process of choosing between different alternatives to achieve a desired outcome, involving evaluation of options, prioritization, and selection based on criteria and available information.\n",
+                "children": {
+                    "evaluation": {
+                        "depth": 3,
+                        "response": " Evaluation is the systematic assessment of council's performance, effectiveness, and adherence to set objectives and policies.\n",
+                        "children": {
+                            "systematic assessment": {
+                                "depth": 4,
+                                "response": " Systematic assessment is a structured and methodical evaluation process aimed at analyzing and determining the effectiveness, efficiency, and impact of initiatives within an organizational framework. \n\n",
+                                "children": {}
+                            },
+                            "performance": {
+                                "depth": 4,
+                                "response": " Performance refers to the efficiency, effectiveness, and productivity of processes, activities, or individuals within an organizational setting, focusing on achieving goals and optimizing resource utilization.\n",
+                                "children": {}
+                            },
+                            "effectiveness": {
+                                "depth": 4,
+                                "response": " Effectiveness in the context of a council refers to the degree to which the council achieves its intended goals, objectives, and outcomes through efficient resource utilization, decision-making, and implementation of policies.\n\n",
+                                "children": {}
+                            },
+                            "objectives": {
+                                "depth": 4,
+                                "response": " Objectives refer to the specific, measurable goals set by a group to guide their decision-making and actions, aiming to achieve desired outcomes within a council's governance framework.\n\n",
+                                "children": {}
+                            },
+                            "policies": {
+                                "depth": 4,
+                                "response": " Policies are formal rules and guidelines established by a governing body to direct decision-making processes, actions, and resource allocation within an organization. \n\n",
+                                "children": {}
+                            }
+                        }
+                    },
+                    "alternatives": {
+                        "depth": 3,
+                        "response": " Alternatives represent diverse options or substitutes available for a particular solution, decision, or resource, emphasizing choice and flexibility.\n",
+                        "children": {
+                            "options": {
+                                "depth": 4,
+                                "response": " Options refer to the various choices or alternatives available within a governance framework, enabling decision-making processes by providing multiple pathways or solutions.\n\n",
+                                "children": {}
+                            },
+                            "substitutes": {
+                                "depth": 4,
+                                "response": " Substitutes refer to alternative products or services that fulfill similar functions or needs, often used when the original option is unavailable, unaffordable, or undesirable.\n\n",
+                                "children": {}
+                            },
+                            "choice": {
+                                "depth": 4,
+                                "response": " Definition: Choice refers to the act of selecting between different options or alternatives within a decision-making process, where individuals or entities evaluate the potential outcomes to determine the most favorable course of action.\n\n",
+                                "children": {}
+                            },
+                            "flexibility": {
+                                "depth": 4,
+                                "response": " Flexibility in software development refers to the ability of a system or component to adapt to changes with minimal effort or disruption.\n\n",
+                                "children": {}
+                            }
+                        }
+                    },
+                    "outcome": {
+                        "depth": 3,
+                        "response": " Definition: Outcome represents the result or consequence of decisions, actions, or events within an organizational framework, typically measured against predefined objectives or goals.\n\n",
+                        "children": {
+                            "result": {
+                                "depth": 4,
+                                "response": " Definition: Result represents the outcome or conclusion derived from the deliberations, decisions, and actions within a council, encapsulating the effectiveness and efficiency of the collective governance process.\n\n",
+                                "children": {}
+                            },
+                            "decision": {
+                                "depth": 4,
+                                "response": " Decision in the context of a council refers to the process by which elected or appointed members evaluate options and select a course of action to address issues or implement policies. \n\n",
+                                "children": {}
+                            },
+                            "action": {
+                                "depth": 4,
+                                "response": " Action refers to the implementation of decisions, policies, or initiatives by a governing body to effect change or address issues within a community or organization.\n\n",
+                                "children": {}
+                            },
+                            "event": {
+                                "depth": 4,
+                                "response": " Event in the context of council refers to a scheduled gathering or assembly where members convene to discuss agendas, make decisions, and perform official duties.\n\n",
+                                "children": {}
+                            },
+                            "objectives": {
+                                "depth": 4,
+                                "response": " Objectives are specific, measurable targets set to guide the strategic direction and decision-making processes within an organizational structure, aiming to achieve desired outcomes and effectiveness.\n\n",
+                                "children": {}
+                            },
+                            "goals": {
+                                "depth": 4,
+                                "response": " Goals in a council setting refer to the specific, measurable, achievable, relevant, and time-bound objectives aimed at guiding decision-making and policy development to address community needs and aspirations.\n\n",
+                                "children": {}
+                            }
+                        }
+                    },
+                    "criteria": {
+                        "depth": 3,
+                        "response": " Criteria are the standards or benchmarks used to evaluate, assess, or make decisions within a governing body, focusing on effectiveness, compliance, and outcomes.\n\n",
+                        "children": {
+                            "standards": {
+                                "depth": 4,
+                                "response": " Standards are established guidelines or criteria within an organizational framework that ensure consistency, quality, and interoperability of processes, products, or services.\n\n",
+                                "children": {}
+                            },
+                            "benchmarks": {
+                                "depth": 4,
+                                "response": " Benchmarks refer to standardized points of reference used to measure and compare the performance, efficiency, or quality of council services, initiatives, or policies.\n\n",
+                                "children": {}
+                            },
+                            "evaluate": {
+                                "depth": 4,
+                                "response": " Evaluate refers to the process of assessing and determining the value, effectiveness, or significance of proposals, policies, or initiatives within an organizational setting, often involving the analysis of data, feedback, and outcomes to inform decision-making.\n\n",
+                                "children": {}
+                            },
+                            "assess": {
+                                "depth": 4,
+                                "response": " Assessment in the context of governance involves the systematic evaluation of policies, programs, or projects to determine their effectiveness, efficiency, and impact on the community. \n\n",
+                                "children": {}
+                            },
+                            "decisions": {
+                                "depth": 4,
+                                "response": " Decisions in this context refer to the conclusive determinations made by a group of individuals, typically involving voting or consensus, to reach a resolution on matters of governance, policy, or resource allocation.\n\n",
+                                "children": {}
+                            },
+                            "effectiveness": {
+                                "depth": 4,
+                                "response": " Effectiveness in the context of council refers to the measure of how well decisions and policies are implemented to achieve desired outcomes and objectives, with minimal waste of resources.\n\n",
+                                "children": {}
+                            },
+                            "compliance": {
+                                "depth": 4,
+                                "response": " Compliance within a regulatory framework refers to adherence to laws, regulations, guidelines, and specifications relevant to an organization's operations. \n\n",
+                                "children": {}
+                            },
+                            "outcomes": {
+                                "depth": 4,
+                                "response": " Outcomes refer to the measurable results or impacts derived from the actions, decisions, and policies implemented within a governing body, focusing on the effectiveness and achievements in meeting set objectives.\n\n",
+                                "children": {}
+                            }
+                        }
+                    },
+                    "selection": {
+                        "depth": 3,
+                        "response": " Definition: Selection in this context refers to the process of choosing specific members or representatives based on predetermined criteria or qualifications.\n\n",
+                        "children": {
+                            "process": {
+                                "depth": 4,
+                                "response": " Definition: A process in this context refers to a series of actions or steps taken in a systematic manner to achieve a specific goal within an organizational structure, focusing on decision-making, policy implementation, and resource allocation.\n\n",
+                                "children": {}
+                            },
+                            "choosing": {
+                                "depth": 4,
+                                "response": " Choosing involves the process of evaluating and selecting the most suitable options or candidates based on specific criteria within a decision-making framework.\n\n",
+                                "children": {}
+                            },
+                            "members": {
+                                "depth": 4,
+                                "response": " Members are individuals who hold positions or roles within a governing body, contributing to decision-making processes and policy implementation.\n",
+                                "children": {}
+                            },
+                            "criteria": {
+                                "depth": 4,
+                                "response": " Definition: Criteria are the standards or benchmarks used to evaluate and make decisions within a governing body, focusing on the assessment of proposals, policies, or actions.\n\n",
+                                "children": {}
+                            },
+                            "qualifications": {
+                                "depth": 4,
+                                "response": " Qualifications refer to the specific skills, education, experience, and certifications required to perform duties within a governing body, ensuring members are competent and capable of making informed decisions.\n\n",
+                                "children": {}
+                            }
+                        }
+                    },
+                    "information": {
+                        "depth": 3,
+                        "response": " Information is data that has been processed, organized, or structured to convey meaning, relevance, or context for decision-making, communication, or knowledge dissemination within a governance framework.\n\n",
+                        "children": {
+                            "data": {
+                                "depth": 4,
+                                "response": " Data within a council refers to structured and unstructured information collected, stored, and analyzed to support decision-making, policy development, and service delivery. \n\n",
+                                "children": {}
+                            },
+                            "processed": {
+                                "depth": 4,
+                                "response": " Processed refers to the handling, modification, or treatment of data, information, or materials by a council to meet specific standards, regulations, or requirements, ensuring efficiency, compliance, and quality.\n\n",
+                                "children": {}
+                            },
+                            "organized": {
+                                "depth": 4,
+                                "response": " Organized refers to the structured arrangement and systematic coordination of activities, resources, and information within a group or entity to achieve efficiency, clarity, and effective decision-making. \n\n",
+                                "children": {}
+                            },
+                            "structured": {
+                                "depth": 4,
+                                "response": " Structured refers to the organization and arrangement of information, data, or processes in a systematic, orderly, and logical manner, ensuring consistency, efficiency, and accessibility within a council's operations.\n\n",
+                                "children": {}
+                            },
+                            "meaning": {
+                                "depth": 4,
+                                "response": " Definition: Meaning in a council context refers to the collective understanding, consensus, or agreement reached among members through deliberation and communication on specific issues or decisions.\n\n",
+                                "children": {}
+                            },
+                            "relevance": {
+                                "depth": 4,
+                                "response": " Relevance in the context of decision-making refers to the significance or pertinence of information, arguments, or factors that influence the prioritization and outcome of council deliberations. \n\n",
+                                "children": {}
+                            },
+                            "context": {
+                                "depth": 4,
+                                "response": " Definition: Context refers to the surrounding circumstances or background information that provides meaning and relevance to a specific situation, decision, or communication within a council setting, encompassing factors such as policy, agenda, historical precedents, stakeholder interests, and procedural norms.\n\n",
+                                "children": {}
+                            },
+                            "decision-making": {
+                                "depth": 4,
+                                "response": " Decision-making is the process by which council members evaluate options, consider potential outcomes, and select a course of action to address community needs.\n\n",
+                                "children": {}
+                            },
+                            "communication": {
+                                "depth": 4,
+                                "response": " Communication within a council refers to the exchange of information, ideas, and directives among members to facilitate decision-making, policy formulation, and collaborative governance.\n\n",
+                                "children": {}
+                            },
+                            "knowledge dissemination": {
+                                "depth": 4,
+                                "response": " Knowledge dissemination is the process of spreading information and insights among individuals or groups to enhance understanding and decision-making. \n\n",
+                                "children": {}
+                            },
+                            "governance framework": {
+                                "depth": 4,
+                                "response": " Governance framework defines the structure, rules, and processes that guide decision-making, accountability, and control within an organization, ensuring compliance, efficiency, and alignment with strategic objectives.\n",
+                                "children": {}
+                            }
+                        }
+                    }
+                }
+            },
+            "policies": {
+                "depth": 2,
+                "response": " Policies are formal guidelines or rules established by a governing body to direct decision-making and actions within an organization, ensuring consistency, fairness, and accountability.\n\n",
+                "children": {
+                    "formal guidelines": {
+                        "depth": 3,
+                        "response": " Formal guidelines are structured rules and protocols established to ensure consistency, fairness, and efficiency in decision-making processes.\n\n",
+                        "children": {
+                            "structured rules": {
+                                "depth": 4,
+                                "response": " Structured rules are predefined guidelines or protocols that dictate the orderly conduct, decision-making processes, and operational procedures within an organizational framework, ensuring consistency, efficiency, and adherence to established standards.\n\n",
+                                "children": {}
+                            },
+                            "consistency": {
+                                "depth": 4,
+                                "response": " Consistency in decision-making refers to the application of uniform principles and criteria across similar cases within an organization, ensuring equitable and predictable outcomes.\n\n",
+                                "children": {}
+                            },
+                            "fairness": {
+                                "depth": 4,
+                                "response": " Fairness in the context of decision-making processes refers to the equitable and impartial treatment of all parties involved, ensuring equal opportunity and unbiased judgment.\n\n",
+                                "children": {}
+                            },
+                            "efficiency": {
+                                "depth": 4,
+                                "response": " Efficiency refers to the optimal use of resources and time to achieve desired outcomes in decision-making processes, minimizing waste and maximizing productivity.",
+                                "children": {}
+                            },
+                            "decision-making processes": {
+                                "depth": 4,
+                                "response": " Decision-making processes involve evaluating options, prioritizing criteria, and selecting the most suitable course of action based on available information and objectives.\n\n",
+                                "children": {}
+                            }
+                        }
+                    },
+                    "governing body": {
+                        "depth": 3,
+                        "response": " A governing body is an authoritative entity responsible for making, enforcing, and interpreting rules within an organization or community, ensuring compliance and managing administrative functions.\n",
+                        "children": {
+                            "authoritative entity": {
+                                "depth": 4,
+                                "response": " An authoritative entity is a recognized source within a governance framework that possesses the legal and regulatory power to enforce rules, make binding decisions, and maintain order.\n\n",
+                                "children": {}
+                            },
+                            "making rules": {
+                                "depth": 4,
+                                "response": " Making rules involves establishing guidelines and protocols for decision-making processes, ensuring orderly and fair governance.",
+                                "children": {}
+                            },
+                            "enforcing compliance": {
+                                "depth": 4,
+                                "response": " Enforcing compliance involves ensuring adherence to established rules, regulations, or standards within an organizational structure, utilizing measures such as audits, penalties, and corrective actions.\n\n",
+                                "children": {}
+                            },
+                            "administrative functions": {
+                                "depth": 4,
+                                "response": " Administrative functions refer to the processes and activities involved in the management, organization, and execution of tasks within a governing body, focusing on policy implementation, resource allocation, and regulatory compliance.\n",
+                                "children": {}
+                            }
+                        }
+                    },
+                    "decision-making": {
+                        "depth": 3,
+                        "response": " Decision-making is the process of selecting a course of action from multiple alternatives to achieve a desired outcome within a council setting, focusing on consensus, policy formulation, and strategic planning.\n",
+                        "children": {
+                            "selecting": {
+                                "depth": 4,
+                                "response": " Selecting is the process of choosing specific items, members, or proposals from a larger set based on predetermined criteria within a governing body or decision-making entity.\n\n",
+                                "children": {}
+                            },
+                            "course of action": {
+                                "depth": 4,
+                                "response": " Definition: A course of action refers to a sequence of steps or measures adopted by a governing body to address issues, implement policies, or achieve objectives.\n\n",
+                                "children": {}
+                            },
+                            "alternatives": {
+                                "depth": 4,
+                                "response": " Alternatives refer to the various options or substitutes available within a decision-making framework, prioritizing flexibility and adaptability to diverse needs and circumstances.\n\n",
+                                "children": {}
+                            },
+                            "consensus": {
+                                "depth": 4,
+                                "response": " Consensus in this context refers to the general agreement or collective decision-making process achieved by a group, where members align on a single course of action or opinion.\n\n",
+                                "children": {}
+                            },
+                            "policy formulation": {
+                                "depth": 4,
+                                "response": " Policy formulation is the process of developing strategies and guidelines to address specific issues within a governing body. \n",
+                                "children": {}
+                            },
+                            "strategic planning": {
+                                "depth": 4,
+                                "response": " Strategic planning is the process of defining a long-term direction and making decisions on allocating resources to pursue this direction within a council, focusing on setting goals, determining actions to achieve these goals, and mobilizing resources to execute the actions.\n\n",
+                                "children": {}
+                            }
+                        }
+                    },
+                    "consistency": {
+                        "depth": 3,
+                        "response": " Consistency refers to the application of uniform standards, principles, and practices within an organizational structure to ensure coherent decision-making, policy implementation, and operational efficiency. \n",
+                        "children": {
+                            "standards": {
+                                "depth": 4,
+                                "response": " Standards are established norms or criteria set by a governing body to ensure consistency, quality, and interoperability in processes, products, or services within an organizational structure.\n\n",
+                                "children": {}
+                            },
+                            "principles": {
+                                "depth": 4,
+                                "response": " Principles in the context of a council represent foundational guidelines or rules that govern decision-making processes, ensuring ethical conduct, transparency, and effective governance.\n\n",
+                                "children": {}
+                            },
+                            "coherent decision-making": {
+                                "depth": 4,
+                                "response": " Coherent decision-making refers to the process of making choices that are logically consistent, well-structured, and aligned with established goals and values. \n\n",
+                                "children": {}
+                            },
+                            "policy implementation": {
+                                "depth": 4,
+                                "response": " Policy implementation refers to the process of executing and enforcing a set of rules, guidelines, or strategies within an organizational structure to achieve specific objectives. \n\n",
+                                "children": {}
+                            },
+                            "operational efficiency": {
+                                "depth": 4,
+                                "response": " Operational efficiency in a council context refers to the optimization of processes and resource utilization to achieve maximum output with minimal waste and effort.\n\n",
+                                "children": {}
+                            }
+                        }
+                    },
+                    "fairness": {
+                        "depth": 3,
+                        "response": " Fairness in the context of decision-making processes refers to the equitable and impartial treatment of all parties, ensuring equal opportunities and consideration without bias or favoritism.\n\n",
+                        "children": {
+                            "equitable treatment": {
+                                "depth": 4,
+                                "response": " Equitable treatment refers to the impartial and fair application of rules, policies, and resources, ensuring that all individuals or entities receive similar consideration and opportunities without discrimination.\n\n",
+                                "children": {}
+                            },
+                            "impartial": {
+                                "depth": 4,
+                                "response": " Impartial in the context of decision-making refers to a stance of fairness and objectivity, where judgments are made without bias or favoritism.\n\n",
+                                "children": {}
+                            },
+                            "equal opportunities": {
+                                "depth": 4,
+                                "response": " Equal opportunities refer to the principle that individuals should have the same chances for advancement and fair treatment in employment and professional development without discrimination based on race, gender, age, or other unrelated factors.\n\n",
+                                "children": {}
+                            },
+                            "no bias": {
+                                "depth": 4,
+                                "response": " No bias refers to the principle of impartiality and fairness in decision-making processes, ensuring that all perspectives, interests, and individuals are considered equally without prejudice or favoritism.\n\n",
+                                "children": {}
+                            },
+                            "no favoritism": {
+                                "depth": 4,
+                                "response": " No favoritism refers to the impartial treatment and equal opportunity for all individuals without bias or preferential treatment.\n\n",
+                                "children": {}
+                            }
+                        }
+                    },
+                    "accountability": {
+                        "depth": 3,
+                        "response": " Accountability refers to the obligation of individuals or entities to report, explain, and be answerable for the consequences of their actions, decisions, and policies.\n\n",
+                        "children": {
+                            "obligation": {
+                                "depth": 4,
+                                "response": " Definition: Obligation refers to a binding commitment or duty that entities within a governing body must adhere to, ensuring compliance with regulations and policies.\n\n",
+                                "children": {}
+                            },
+                            "report": {
+                                "depth": 4,
+                                "response": " A report is a formal document detailing the findings, analyses, and recommendations derived from data or research within a governing body.\n",
+                                "children": {}
+                            },
+                            "explain": {
+                                "depth": 4,
+                                "response": " Explanation: The act of making a concept clear and understandable through detailed information or reasoning.\n",
+                                "children": {}
+                            },
+                            "answerable": {
+                                "depth": 4,
+                                "response": " Answerable refers to the capacity of individuals or entities to provide clear, concise, and verifiable responses to queries or requests, particularly in a formal or official setting.\n\n",
+                                "children": {}
+                            },
+                            "actions": {
+                                "depth": 4,
+                                "response": " Actions refer to the specific measures, decisions, or steps taken by a governing body to implement policies, manage resources, and address issues within a community or organization.\n\n",
+                                "children": {}
+                            },
+                            "decisions": {
+                                "depth": 4,
+                                "response": " Decisions in a council context refer to the conclusions reached through collective deliberation and voting by members, determining policies, allocations, and actions for governance.\n\n",
+                                "children": {}
+                            },
+                            "policies": {
+                                "depth": 4,
+                                "response": " Policies are formalized guidelines or rules established by a governing body to direct decision-making and actions, ensuring consistency, fairness, and accountability.\n\n",
+                                "children": {}
+                            }
+                        }
+                    }
+                }
+            },
+            "administration": {
+                "depth": 2,
+                "response": " Administration refers to the process of managing and organizing resources, policies, and operations to achieve efficient functioning within an organizational structure. \n\n",
+                "children": {
+                    "managing": {
+                        "depth": 3,
+                        "response": " Managing in the context of a council involves overseeing, coordinating, and facilitating the execution of policies, resources, and services to meet the objectives and needs of the community.\n\n",
+                        "children": {
+                            "overseeing": {
+                                "depth": 4,
+                                "response": " Overseeing in the context of a council involves supervising, monitoring, and guiding the execution of policies, decisions, and activities to ensure compliance, efficiency, and alignment with set objectives.\n\n",
+                                "children": {}
+                            },
+                            "coordinating": {
+                                "depth": 4,
+                                "response": " Coordinating in the context of a council involves the systematic organization and synchronization of activities, resources, and communication among members to achieve unified objectives. \n\n",
+                                "children": {}
+                            },
+                            "facilitating": {
+                                "depth": 4,
+                                "response": " Facilitating in the context of council refers to the act of making processes, discussions, or decision-making more efficient and inclusive by guiding, supporting, and enabling participation.\n\n",
+                                "children": {}
+                            },
+                            "policies": {
+                                "depth": 4,
+                                "response": " Policies are formalized guidelines or rules established by a governing body to direct decision-making and actions, ensuring consistency, fairness, and accountability.\n\n",
+                                "children": {}
+                            },
+                            "resources": {
+                                "depth": 4,
+                                "response": " Resources refer to the assets, materials, and supplies available to a governing body for implementing policies, managing community needs, and facilitating development. \n\n",
+                                "children": {}
+                            },
+                            "services": {
+                                "depth": 4,
+                                "response": " Services refer to the various support and assistance provided by a governing body to meet the needs of its constituents, including maintenance, utilities, and community programs. \n",
+                                "children": {}
+                            },
+                            "objectives": {
+                                "depth": 4,
+                                "response": " Objectives in the context of a council refer to the specific, measurable goals set to guide decision-making and actions towards achieving desired outcomes for the community or organization.\n\n",
+                                "children": {}
+                            },
+                            "community": {
+                                "depth": 4,
+                                "response": " A community within a council represents a collective of individuals united by common interests, goals, or localities, working collaboratively to address shared concerns, make decisions, and implement policies.\n\n",
+                                "children": {}
+                            }
+                        }
+                    },
+                    "resources": {
+                        "depth": 3,
+                        "response": " Resources in the context of council refer to the allocation, management, and distribution of assets, materials, and services to meet the needs and objectives of the governing body.\n\n",
+                        "children": {
+                            "allocation": {
+                                "depth": 4,
+                                "response": " Allocation refers to the process of distributing resources, responsibilities, or tasks among various entities or individuals within a governing body, ensuring equitable access and efficient utilization.\n\n",
+                                "children": {}
+                            },
+                            "management": {
+                                "depth": 4,
+                                "response": " Management is the process of coordinating and overseeing activities to achieve organizational goals efficiently within a governing body. \n",
+                                "children": {}
+                            },
+                            "distribution": {
+                                "depth": 4,
+                                "response": " Definition: Distribution in this context refers to the equitable allocation and dissemination of resources, services, or responsibilities among various stakeholders or areas.\n\n",
+                                "children": {}
+                            },
+                            "assets": {
+                                "depth": 4,
+                                "response": " Assets in the context of a council refer to the collective resources, including financial, physical, and human capital, managed and utilized to achieve its objectives and serve the community.\n\n",
+                                "children": {}
+                            },
+                            "materials": {
+                                "depth": 4,
+                                "response": " Materials refer to the physical substances and composites utilized in construction and infrastructure development within a governance framework, encompassing durability, sustainability, and regulatory compliance.\n\n",
+                                "children": {}
+                            },
+                            "services": {
+                                "depth": 4,
+                                "response": " Services refer to the array of support and administrative functions provided by a governing body to meet the needs of its constituents, including maintenance, public safety, and community development.\n\n",
+                                "children": {}
+                            }
+                        }
+                    },
+                    "policies": {
+                        "depth": 3,
+                        "response": " Policies are formal rules or guidelines established by a governing body to regulate actions, decisions, and procedures, ensuring consistency, fairness, and accountability in management and operations.\n",
+                        "children": {
+                            "rules": {
+                                "depth": 4,
+                                "response": " Rules are established guidelines or principles that govern behavior, decision-making, and actions within a structured group or organization. \n\n",
+                                "children": {}
+                            },
+                            "guidelines": {
+                                "depth": 4,
+                                "response": " Guidelines are systematic rules or principles established by a governing body to direct actions, decisions, and standards within an organizational framework. \n\n",
+                                "children": {}
+                            },
+                            "governing body": {
+                                "depth": 4,
+                                "response": " A governing body is an authoritative entity responsible for setting policies, making decisions, and overseeing the administration of an organization or community.\n\n",
+                                "children": {}
+                            },
+                            "regulate": {
+                                "depth": 4,
+                                "response": " Regulate: Establish and maintain rules or standards to control or manage activities, ensuring compliance and order within a governing body.\n",
+                                "children": {}
+                            },
+                            "consistency": {
+                                "depth": 4,
+                                "response": " Consistency in a council refers to the uniform application of rules, policies, and procedures across all members and activities, ensuring equitable decision-making and governance.\n\n",
+                                "children": {}
+                            },
+                            "fairness": {
+                                "depth": 4,
+                                "response": " Fairness in decision-making processes ensures equitable treatment and impartiality, where decisions are made without bias, favoritism, or discrimination, based on objective criteria and equal opportunity for all stakeholders.\n",
+                                "children": {}
+                            },
+                            "accountability": {
+                                "depth": 4,
+                                "response": " Accountability is the obligation of individuals or entities to report, explain, and be answerable for the consequences of their actions or decisions. \n",
+                                "children": {}
+                            },
+                            "management": {
+                                "depth": 4,
+                                "response": " Management is the process of organizing, planning, directing, and controlling resources and activities to achieve specific goals within a governing body.\n",
+                                "children": {}
+                            },
+                            "operations": {
+                                "depth": 4,
+                                "response": " Operations refer to the systematic execution of tasks, procedures, and processes within an organizational structure to achieve specific objectives, such as policy implementation, resource allocation, and service delivery.\n\n",
+                                "children": {}
+                            }
+                        }
+                    },
+                    "operations": {
+                        "depth": 3,
+                        "response": " Operations within a council refer to the systematic processes and activities undertaken to manage, implement, and execute the council's mandate, including decision-making, resource allocation, and policy enforcement.\n\n",
+                        "children": {
+                            "systematic processes": {
+                                "depth": 4,
+                                "response": " Systematic processes in governance involve structured, methodical approaches to decision-making, policy implementation, and administrative functions, ensuring consistency, efficiency, and accountability.\n\n",
+                                "children": {}
+                            },
+                            "decision-making": {
+                                "depth": 4,
+                                "response": " Decision-making is the process of selecting a course of action from multiple alternatives to achieve a desired outcome in governance. \n",
+                                "children": {}
+                            },
+                            "resource allocation": {
+                                "depth": 4,
+                                "response": " Resource allocation refers to the process of distributing available resources among various competing needs within an administrative body to optimize efficiency and effectiveness. \n\n",
+                                "children": {}
+                            },
+                            "policy enforcement": {
+                                "depth": 4,
+                                "response": " Policy enforcement refers to the systematic application and adherence to established rules and regulations within an administrative body to ensure compliance and order. \n\n",
+                                "children": {}
+                            }
+                        }
+                    },
+                    "organizational structure": {
+                        "depth": 3,
+                        "response": " Organizational structure refers to the system of relationships, roles, and responsibilities within an entity that coordinates its activities and resources. [organizational, structure, relationships, roles, responsibilities, activities, resources]\n\nTech_words=[organizational, structure, relationships, roles, responsibilities, activities, resources]",
+                        "children": {
+                            "organizational": {
+                                "depth": 4,
+                                "response": " Organizational refers to the structured arrangement and management of resources, processes, and people within an entity to achieve specific goals and objectives.\n\n",
+                                "children": {}
+                            },
+                            "structure": {
+                                "depth": 4,
+                                "response": " Definition: Structure in this context refers to the organized framework and hierarchical arrangement of roles, responsibilities, and communication channels within an entity, ensuring efficient decision-making and governance.\n\n",
+                                "children": {}
+                            },
+                            "relationships": {
+                                "depth": 4,
+                                "response": " Relationships in the context of council refer to the formal or informal connections and interactions between members, committees, or stakeholders within an organizational or governmental body, aimed at facilitating cooperation, decision-making, and policy implementation.\n\n",
+                                "children": {}
+                            },
+                            "roles": {
+                                "depth": 4,
+                                "response": " Roles in a council refer to the specific functions or positions assigned to members, each with distinct responsibilities and authority within the decision-making body.\n\n",
+                                "children": {}
+                            },
+                            "responsibilities": {
+                                "depth": 4,
+                                "response": " Responsibilities refer to the obligations and duties that individuals or entities are expected to fulfill, ensuring accountability, decision-making, and governance within a structured framework.\n\n",
+                                "children": {}
+                            },
+                            "activities": {
+                                "depth": 4,
+                                "response": " Activities refer to the various tasks, programs, and initiatives undertaken by a governing body to manage community needs, implement policies, and facilitate public services. \n\n",
+                                "children": {}
+                            },
+                            "resources": {
+                                "depth": 4,
+                                "response": " Resources refer to the available assets, materials, or supplies utilized by a governing body to execute its functions, such as personnel, budget, infrastructure, and information systems.\n",
+                                "children": {}
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
